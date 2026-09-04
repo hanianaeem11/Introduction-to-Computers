@@ -1,7 +1,7 @@
 # Introduction-to-Computer
-<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/c04a26f8-e1a3-4a87-a7a4-0df12be6be5d" />
- ## History of Computers
- **19th Century (Mechanical Foundations):**
+<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/c04a26f8-e1a3-4a87-a7a4-0df12be6be5d" /> </br>
+ ## History of Computers </br>
+ **19th Century (Mechanical Foundations):**</br>
  <p> *Charles Babbage designed the Analytical Engine, introducing the core concepts of input, output, memory, and programmable computing logic.*
 **1940s (Vacuum Tubes & ENIAC):** </br>
 *The invention of vacuum tubes made fully electronic computing possible, leading to room-sized machines like the ENIAC used for complex military calculations.*
